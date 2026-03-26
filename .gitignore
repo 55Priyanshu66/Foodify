@@ -1,0 +1,7 @@
+.env
+node_modules/
+
+# Ignore heavy stuff
+data/
+foodRecognition/
+*.h5
